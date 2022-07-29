@@ -1,2 +1,0 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  cn.nigel.boot.framework.email.config.VideoEmailAutoConfiguration
