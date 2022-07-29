@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  cn.nigel.boot.framework.datasource.config.VideoDataSourceAutoConfiguration,\
+  cn.nigel.boot.framework.mybatis.config.VideoMybatisAutoConfiguration

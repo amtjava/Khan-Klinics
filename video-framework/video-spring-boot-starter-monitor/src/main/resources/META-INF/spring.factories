@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  cn.nigel.boot.framework.tracer.config.VideoTracerAutoConfiguration
